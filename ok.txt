@@ -116,7 +116,7 @@ img.emoji {
 								<div class="flex-caption">
 								
 									<h3>Buy It Now</h3>   
-									<p>'.$title.'</p>
+									<p>[TITLE]</p>
 								</div></li></looping>
 </ul>			
 				</div>	
@@ -241,7 +241,7 @@ img.emoji {
 		<input type="text" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
 		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
 	</form>
-		<a href="index.html" title="<?php echo $nama; ?>"><?php echo $nama; ?></a> - <?php echo $webdesc; ?></div>		
+		<a href="index.html" title="[TITLE]">[TITLE]</a> - [DESC]</div>		
 </div><!-- .site-info -->	
 </footer><!-- #colophon .site-footer -->
 	

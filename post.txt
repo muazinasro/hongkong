@@ -3,10 +3,10 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <meta name="viewport" content="width=device-width" />
-<meta property="og:title" content="Buy Cheap Discount <?php echo $title; ?> Free Shipping"/>
-<meta property="og:image" content="<?php echo $imgsrc; ?>"/>
+<meta property="og:title" content="Buy Cheap Discount [TITLE] Free Shipping"/>
+<meta property="og:image" content="[IMGSRC]"/>
 <meta property="og:site_name" content="Trusted Hongkong Online Store with Free Shipping to Any Country in Majority Items"/>
-<meta property="og:description" content="<?php echo 'Buy Cheap and Free Shipping '.$title.' You Will Save '.$sale.' if you buy it now or before '.$valid;?>"/>
+<meta property="og:description" content="Buy Cheap and Free Shipping [TITLE]"/>
 	
 <title>Buy Cheap Discount [TITLE] Free Shipping - [WEBSITENAME]</title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
@@ -130,7 +130,7 @@ echo'<article id="post-1" class="cf post-1 products type-products status-publish
 			<div class="entry-meta">
 				 By: [AUTHOR] 
 			 </div><!-- .entry-meta -->
-			 <p><a href="#" onclick="window.open('[URL1]')" rel="nofollow"><img src="'.$button2.'"></a></p>
+			 <p><a href="#" onclick="window.open('[URL1]')" rel="nofollow"><img src="/include/images/protect.png"></a></p>
 			 <div class="the-price cf">
 				 <h3>Price: Click Button to Discover Price</h3> 
 				 <a href="#" onclick="window.open('[URL1]')" class="buy-button" rel="nofollow">Purchase now </a>
