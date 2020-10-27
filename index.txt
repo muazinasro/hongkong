@@ -215,7 +215,7 @@ img.emoji {
 		<input type="text" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
 		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
 	</form>
-		<a href="index.html" title="[TITLE]">[TITLE]</a> - [DESC]</div>		
+		<a href="index.html" title="[WEBSITENAME]">[WEBSITENAME]</a> - [DESC]</div>		
 </div><!-- .site-info -->	
 </footer><!-- #colophon .site-footer -->
 	
