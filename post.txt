@@ -33,12 +33,12 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='style-css'  href='http://<?php echo $_SERVER['SERVER_NAME'];?>/include/style.css?ver=4.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='960grid-css'  href='http://<?php echo $_SERVER['SERVER_NAME'];?>/include/css/960.css?ver=4.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='flexslider-css'  href='http://<?php echo $_SERVER['SERVER_NAME'];?>/include/css/flexslider.css?ver=4.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='fancyboxcss-css'  href='http://<?php echo $_SERVER['SERVER_NAME'];?>/include/css/jquery.fancybox.css?ver=4.2.5' type='text/css' media='all' />
-<script type='text/javascript' src='http://<?php echo $_SERVER['SERVER_NAME'];?>/include/js/jquery/jquery.js?ver=1.11.2'></script>
-<script type='text/javascript' src='http://<?php echo $_SERVER['SERVER_NAME'];?>/include/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='stylesheet' id='style-css'  href='/include/style.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='960grid-css'  href='/include/css/960.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='/include/css/flexslider.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fancyboxcss-css'  href='/include/css/jquery.fancybox.css?ver=4.2.5' type='text/css' media='all' />
+<script type='text/javascript' src='/include/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='/include/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 </head>
