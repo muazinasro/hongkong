@@ -47,7 +47,7 @@ img.emoji {
 				<div class="head">
 					<div class="logo">
 						
-					<h1 class="site-title logo"><a id="blogname" rel="home" href="/" title="[WEBSITENAME]">[WEBSITENAME]</a></h1>
+					<h1 class="site-title logo"><a id="blogname" rel="home" href="index.html" title="[WEBSITENAME]">[WEBSITENAME]</a></h1>
 	
 						<h2 class="site-description">[DESC]</h2>
 					</div>
