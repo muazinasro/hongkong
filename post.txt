@@ -122,7 +122,7 @@ echo'<article id="post-1" class="cf post-1 products type-products status-publish
 	
 	<div class="product-single-top cf">
 		<div class="prod-image">
-										 <a class="fancybox" href="[IMGSRC]"><img src="[IMGSRC]"/></a> 		</div>
+										 <a class="fancybox" href="[IMGSRC]"><img src="[IMGSRC]_220x220.jpg"/></a> 		</div>
 		
 		<header class="entry-header">
 			<h1 class="entry-title">[TITLE]</h1>
