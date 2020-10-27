@@ -132,8 +132,7 @@ echo'<article id="post-1" class="cf post-1 products type-products status-publish
 			 </div><!-- .entry-meta -->
 			 <p><a href="#" onclick="window.open('[URL1]')" rel="nofollow"><img src="include/images/protect.png"></a></p>
 			 <div class="the-price cf">
-				 <h3>Price: Click Button to Discover Price</h3> 
-				 <a href="#" onclick="window.open('[URL1]')" class="buy-button" rel="nofollow">Purchase now </a>
+				 <a href="#" onclick="window.open('[URL1]')" class="buy-button" rel="nofollow">Buy It Now!</a>
 			 </div>
 		</header><!-- .entry-header -->
 
