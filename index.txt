@@ -103,33 +103,7 @@ img.emoji {
 
 	</header><!-- #masthead .site-header -->
 
-	<div id="main" class="site-main cf">	<div id="feature-section" class="cf">
-		<div id="slide">
-			<div id="slider">
-				<div id="flexislider" class="flexslider">
-					<ul class="slides">
-					    <looping><li>
-						 			
-																
-																	<a href="[URL]"><img class="slideimg" src="[IMGSRC]_220x220.jpg" height="250" width="300"/></a>
-												
-								<div class="flex-caption">
-								
-									<h3>Buy It Now</h3>   
-									<p>[TITLE]</p>
-								</div></li></looping>
-</ul>			
-				</div>	
-			</div>	
-		</div>
-		
-		<div id="banner-block">
-			<div class="head-banner">	<img src="include/images/off1.jpg" />	</div>
-			
-			
-		</div>
-		
-	</div>
+	<div id="main" class="site-main cf">	<div id="feature-section" class="cf"></div>
 			
 	<div class="clear"></div>
 	<div class="latest-head grid_12">
